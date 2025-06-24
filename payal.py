@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 
 # Step 1: Import the dataset
-df = pd.read_csv("C:/Users/jay30/OneDrive/Documents/my 1st project/python/world_bank_data_2025.csv")
+df = pd.read_csv("C:/Users/PAYAL MAHARANA/OneDrive/Documents/python/world_bank_data_2025.csv")
 
 # Preview the data
 print("First 5 rows:")
